@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with Tailwind CSS gradients where browser incompatibility or CSS conflicts prevent the gradient from rendering correctly.  The `bug.html` file shows the problematic code, while `solution.html` provides a fix using fallback techniques.
